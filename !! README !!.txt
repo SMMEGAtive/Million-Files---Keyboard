@@ -1,6 +1,6 @@
+This is my first simfile pack. It features mostly my new charts with some addition from my osu!mania charts (with necessary tweaks). Most of the charts are aimed for intermediate players but few charts leaned towards advanced players (I consider this as the Boss chart of this pack).
 
-
-My aim for this simfile pack is merely for non-commercial entertainment purpose only. I do not 
+My aim for this simfile pack is merely for non-commercial entertainment purpose only. I do not have any license for commercial usage of this simfile pack.
 
 ================================================================
 
@@ -10,6 +10,8 @@ Source			: Pump It Up XX
 
 Charter			: MEGAtive
 
+This song is pretty high-octane so prepare yourself for some complex patterning inside.
+
 ================================================================
 
 Music Title		: .59 ~ HELL'S MIX ~
@@ -18,6 +20,8 @@ Music Artist		: 山本純一
 Source			: BEMANI freestyle mix ＃2 ｢ad libitum｣
 
 Charter			: MEGAtive
+
+Simple jumpstream chart.
 
 ================================================================
 
@@ -72,7 +76,7 @@ Source			: SOUND VOLTEX II -infinite infection-
 
 Charter			: MEGAtive
 
-
+A pretty heavy chart with a decently fast handstream in the middle.
 
 ================================================================
 
@@ -82,6 +86,8 @@ Source			: Cytus II
 
 Charter			: MEGAtive
 
+Featuring a vast amount of jacking in this chart, this will test your jacking proficiency.
+
 ================================================================
 
 Music Title		: Exitium
@@ -89,6 +95,8 @@ Music Artist		: Laur
 Source			: WACCA
 
 Charter			: MEGAtive
+
+This is really hard because of the sheer speed it provides. Proceed with caution.
 
 ================================================================
 
@@ -144,7 +152,10 @@ A swingy chiptune music so festive you didn't realize it was swingy. Mostly feat
 Music Title		: Ginga Tetsudou no Penguin ft. nicamoq (Stripe.P Remix)
 	Alternate	: Penguin of Galactic Railroad ft. nicamoq (Stripe.P Remix)
 Music Artist		: Aiobahn & Yunomi feat. nicamoq
-Source			: 
+
+Charter			: MEGAtive
+
+A mild and slow technical jack for those who just started playing.
 
 ================================================================
 
@@ -155,6 +166,7 @@ Source			: Steel Chronicle VICTROOPERS
 
 Charter			: MEGAtive
 
+This was taken from my HAVOX set in osu!mania. Nothing much changed here. The lower diff features mild technical layering while the hardest is trickier.
 
 ================================================================
 
@@ -167,7 +179,7 @@ Source			: BOFU2015
 
 Charter			: MEGAtive
 
-
+Get yourself prepared for some long stream as this chart will provide you with a fast one. Has long 32th and 48th bursts as well.
 
 ================================================================
 
@@ -199,7 +211,7 @@ Source			: RGB2 - B2 Side
 
 Charter			: MEGAtive
 
-
+Decently hard chart that executes numerous technical patterning.
 
 ================================================================
 
@@ -216,12 +228,12 @@ Dumps based on vocals using many kind of snaps from 1/4, 1/6, 3/16, 1/8, and 1/1
 ================================================================
 
 Music Title		: Los! Los! Los!
-Music Artist		:
+Music Artist		: Tanya Degurechaff (CV: Yuuki Aoi)
 Source			: Youjo Senki
 
 Charter			: MEGAtive
 
-
+Mostly consisted of 8th BPM240 triple hammers, I'd say this is one of my enjoyable chart in this pack.
 
 ================================================================
 
@@ -261,7 +273,7 @@ Source			: DanceDanceRevolution X3 vs 2ndMIX
 
 Charter			: MEGAtive
 
-
+A pretty heavy chart utilizing technical short streams and minijacks..................
 
 ================================================================
 
